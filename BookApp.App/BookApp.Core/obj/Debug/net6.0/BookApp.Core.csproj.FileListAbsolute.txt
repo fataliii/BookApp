@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\bin\Debug\net6.0\BookApp.Core.deps.json
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\bin\Debug\net6.0\BookApp.Core.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\bin\Debug\net6.0\BookApp.Core.pdb
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\refint\BookApp.Core.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\BookApp.Core.pdb
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.Core\obj\Debug\net6.0\ref\BookApp.Core.dll
