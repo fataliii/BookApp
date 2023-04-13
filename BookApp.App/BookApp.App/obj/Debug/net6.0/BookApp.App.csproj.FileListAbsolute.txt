@@ -3,3 +3,16 @@ C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.
 C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.App.exe
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.App.deps.json
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.App.runtimeconfig.json
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.App.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.App.pdb
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.Core.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\bin\Debug\net6.0\BookApp.Core.pdb
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\refint\BookApp.App.dll
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.pdb
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\ref\BookApp.App.dll

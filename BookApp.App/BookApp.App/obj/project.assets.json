@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BookApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookApp.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BookApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../BookApp.Core/BookApp.Core.csproj",
+      "msbuildProject": "../BookApp.Core/BookApp.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BookApp.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ASUS\\source\\repos\\BookApp.App\\BookApp.Core\\BookApp.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\BookApp.App\\BookApp.Core\\BookApp.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

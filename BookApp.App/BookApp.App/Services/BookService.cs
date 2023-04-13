@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BookApp.Core;
 
 namespace BookApp.App.Services
 {
@@ -31,7 +27,9 @@ namespace BookApp.App.Services
             Console.WriteLine("add Name");
             Newbook.Name = Console.ReadLine();
             Console.WriteLine("add Price");
-            Newbook.Email = Console.ReadLine();
+            string? v = Console.ReadLine();
+            
+                
 
             Array.Resize(ref Books, Books.Length + 1);
 

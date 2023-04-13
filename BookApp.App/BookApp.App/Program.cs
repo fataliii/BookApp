@@ -1,5 +1,5 @@
 ﻿
-using BookApp.App;
+using BookApp.Core;
 Book book = new Book();
 
 Console.WriteLine("0.Close App");
@@ -16,7 +16,7 @@ while (RequestNumber != "0")
             book.ShowBooks();
             break;
         case "2":
-            book.CreateBooks();
+            book.CreateBook();
             break;
 
         default:
